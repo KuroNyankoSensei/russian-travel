@@ -54,4 +54,4 @@
 
 ### URL
 
-    https://kuronyankosensei.github.io/yandex-praktikum__russian-travel/
+    https://kuronyankosensei.github.io/russian-travel/
