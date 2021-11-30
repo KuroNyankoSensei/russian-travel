@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 28px;
+}
+
+@media screen and (max-width: 1152px) {
+  .header {
+    width: 90%;
+    justify-self: center;
+  }
+}
+
+@media screen and (max-width: 825px) {
+  .header {
+    width: 94%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .header {
+    width: 90%;
+    padding-top: 16px;
+  }
+}

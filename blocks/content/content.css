@@ -1,0 +1,25 @@
+.content {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: minmax(320px, 1184px);
+  gap: 86px;
+  justify-self: center;
+}
+
+@media screen and (max-width: 1152px) {
+  .content {
+    gap: 88px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .content {
+    gap: 87px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .content {
+    gap: 64px;
+  }
+}
